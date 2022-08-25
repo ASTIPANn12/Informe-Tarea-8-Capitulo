@@ -25,6 +25,16 @@ Andres Tipan
 - Determinar impedancia y admitancia en un circuito RL en paralelo
 
 # MARCO TEORICO
+
+___Circuito RC___
+
+![Untitled (1) (1)](https://user-images.githubusercontent.com/105671364/186726885-5ce622d0-b547-4c9b-80c4-b985b7e1e81a.jpg)
+
+
+____ Circuito RL___
+
+![Untitled (24)](https://user-images.githubusercontent.com/105671364/186725497-3c412eed-aa31-4771-ba49-931b462d7bb8.jpg)
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
  
 ___Capitulo 15___
@@ -33,7 +43,15 @@ ___Seccion15-1___
 
 2. Localice los siguientes números en el plano complejo:
 
+![image](https://user-images.githubusercontent.com/105671364/186712185-c0823fe6-99b5-4f6a-af43-12216dce54fb.png)
+
 4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del proble.
+
+![image](https://user-images.githubusercontent.com/105671364/186712251-241d5f96-0f49-46aa-a73a-6484fbd71a56.png)
+
+![image](https://user-images.githubusercontent.com/105671364/186712411-c972c74b-e0aa-4d4d-bf21-a2b472699fca.png)
+
+![image](https://user-images.githubusercontent.com/105671364/186712553-050e9c5e-02c0-4bfd-939d-fa71c46c4d1a.png)
 
 6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:
 
@@ -96,6 +114,32 @@ La forma de la corrientes es una onda sinusoidal
 
 ![image](https://user-images.githubusercontent.com/105671364/186593988-5fa41b47-f674-4371-9b4d-5a5241d5745c.png)
 
+![image](https://user-images.githubusercontent.com/105671364/186712671-6050a22e-599b-43f7-9996-670a4c1d3ba7.png)
 
+![image](https://user-images.githubusercontent.com/105671364/186712743-79e208af-769f-4563-972f-7bcb901bc101.png)
 
+24. Repita el problema 23 con C= 0.0047 mF. 
 
+# Video 
+
+https://youtu.be/L3dprMsesRs
+
+# Concluciones 
+
+Es fundamental tener muy encuenta los conceptos basicos de lo que es un circuito en serie y paralelo.
+
+Saber identifaicar una circuito DELTA-Y y Y-DELTA
+
+Sber identificar lo que es Thevenin y Norton
+
+Al resolver los problemas se tiene que tener en cuenta todo lo aprendido anterior mente ya que sera apicable en todo el estudio de circuito en serie y paralelo.
+
+Se pone en practica la ley de ohm para poder resolver los circuitos presentes.
+
+# Bibliografia
+
+Rodriguez, D. (2020). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos. Principios de circuitos eléctricos. https://www.academia.edu/42923009/FLOYD_OCTAVA_EDICI%C3%93N_Principios_de_circuitos_el%C3%A9ctricos
+
+Circuito paralelo. Xunta.gal. Recuperado el 7 de junio de 2022, de https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/323_circuito_paralelo.html
+
+Circuito en Serie - Concepto, elementos y ejemplos. Concepto. Recuperado el 7 de junio de 2022, de https://concepto.de/circuito-en-serie/
